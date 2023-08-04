@@ -444,6 +444,8 @@ Create a piece of software to allow a user to **import a table** and **plot a 2D
     
     <img src="https://www.spyder-ide.org/static/images/spyder_logo.png"/>
 
+    and download <a href="/data/data.csv">data.csv</a>.
+
 ## Ask user to import a table
 1. We will be asking the user to import a table in the csv file format.
     
@@ -456,7 +458,7 @@ Create a piece of software to allow a user to **import a table** and **plot a 2D
         </span>
 
     !!! info 
-        Make sure you have the `data.csv` file on your machine
+        Make sure you have downloaded the `data.csv` file on your machine
 
 2. In Spyder, we need to call a function to let the user to choose the CSV file to be imported.
 
